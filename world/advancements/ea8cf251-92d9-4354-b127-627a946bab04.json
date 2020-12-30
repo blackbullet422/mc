@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-12-30 16:51:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-29 20:48:58 +0000"
@@ -362,6 +368,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-12-30 00:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-12-30 16:10:03 +0000"
     },
     "done": true
   },
@@ -615,6 +627,12 @@
       "has_bed": "2020-12-29 19:59:35 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2020-12-30 16:19:41 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -1213,6 +1231,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-12-29 20:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-12-30 16:10:03 +0000"
     },
     "done": true
   },
@@ -1891,6 +1915,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-30 03:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-12-30 16:19:41 +0000"
     },
     "done": true
   },
